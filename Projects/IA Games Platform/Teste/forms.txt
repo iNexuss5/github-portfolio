@@ -1,0 +1,1 @@
+Para poder consultar as perguntas feitas a utilizadores pode aceder ao ficheiro .html
